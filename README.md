@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edsonfrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonfrs&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <p> </p>
+ 
   
   
 <div style="display: inline_block"><br>
@@ -30,6 +30,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Edson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Edson-Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
 </div>
+  
+<p> </p>
   
   
 <div> 
