@@ -2,6 +2,7 @@
 - 👀 I’m interested in technology, development, Linux, Sheel Script, SQL, good books and more... 
 - 🌱 I’m currently learning Java, Shell script and development.
 - 💪 Working: Tests, tests and more tests. All for Quality Assurance (QA)
+- 📫 How to reach me ...⬇️⬇️⬇️
 
   
 
@@ -19,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Eds-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Eds-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Eds-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Eds-Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="Eds-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -36,7 +37,7 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 <br />
-<p>- 📫 How to reach me ...⬇️⬇️⬇️ </p>
+
   
   
 <div> 
