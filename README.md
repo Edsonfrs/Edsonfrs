@@ -8,6 +8,8 @@
 <p align="left">- 📫 How to reach me ...⬇️⬇️⬇️</p>
 </div>
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=edsonfrs)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=edsonfrs&bg_color=000000&color=4169E1&line=1E90FF&point=4169E1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=edsonfrs&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
