@@ -1,9 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 ![image](https://github.com/Edsonfrs/Edsonfrs/assets/20177493/dd1d7c63-bcf9-4d10-9fbe-95591aa00ed2)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+
 
 
 <div height= 30px width= 30px style="background-color: red">  
-<p align="left" color=>- 👋 Hi, I’m @Edsonfrs</p>
+<!---<p align="left" color=>- 👋 Hi, I’m @Edsonfrs</p> --->
 <p align="left">- 👀 I’m interested in technology, development, Linux, Sheel Script, SQL, good books and more... </p>
 <p align="left">- 🌱 I’m currently learning Java, Shell script and development.</p>
 <p align="left">- 💪 Working: Tests, tests and more tests. All for Quality Assurance (QA)</p>
