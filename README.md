@@ -1,4 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+![image](https://github.com/Edsonfrs/Edsonfrs/assets/20177493/dd1d7c63-bcf9-4d10-9fbe-95591aa00ed2)
+
 
 <div height= 30px width= 30px style="background-color: red">  
 <p align="left" color=>- 👋 Hi, I’m @Edsonfrs</p>
