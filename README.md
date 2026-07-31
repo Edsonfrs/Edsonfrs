@@ -14,16 +14,24 @@
 
 ---
 
-### 🧪 Sobre Mim
-
-- 🔍 **Atuação:** Foco total em **Quality Assurance (QA)**, testes automatizados e análise de sistemas.
-- ☕ **Ecosistema:** Estudando e aprofundando constantemente em **Java**, **Spring Boot** e automação.
-- 🐧 **Linux & Terminal:** Apaixonado pela linha de comando, **Shell Script** e ambientes UNIX.
-- 📖 **Interesses:** Literatura clássica, história, filosofia e arquitetura de sistemas.
+*Building reliable software through testing, automation and continuous learning.*
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🧪 About Me
+
+- 🔍 **Focus:** Dedicated to **Quality Assurance (QA)**, automated testing, and systems analysis.
+- ☕ **Ecosystem:** Continuously learning and deepening expertise in **Java**, **Spring Boot**, testing, and automation.
+- 🐧 **Linux & Terminal:** Passionate about the command line, **Shell Scripting**, and UNIX environments.
+- 📖 **Interests:** Classic literature, history, philosophy, and systems architecture.
+
+I believe that quality is not a phase of software development.
+
+**Quality is a mindset.**
+
+---
+
+### 🛠️ Technologies and Tools
 
 <p align="left">
   <!-- Linguagens e QA -->
@@ -41,23 +49,14 @@
 </p>
 
 ---
+---
 
-### 📊 Estatísticas do GitHub
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Statistics
+
 
 <p align="center">
-  <!-- Card de Estatísticas Gerais (Servidor Alternativo Estável) -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Edsonfrs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  
-  <!-- Card de Linguagens mais usadas -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Edsonfrs&theme=tokyonight&hide_border=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonfrs&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-####################  ----------------------------------------
-
-<p align="center">
-  <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=Edsonfrs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonfrs&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- GRÁFICO DE ATIVIDADE -->
@@ -65,8 +64,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edsonfrs&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
+
+
+
 ---
 
 <p align="center">
   <i>"In Life, War. In Death, Peace."</i> ⚔️
 </p>
+
+⭐ Thank you for visiting my profile!
