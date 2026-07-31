@@ -1,66 +1,61 @@
-![image](https://github.com/Edsonfrs/Edsonfrs/assets/20177493/dd1d7c63-bcf9-4d10-9fbe-95591aa00ed2)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+<!-- HEADER DINÂMICO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090e,100:1a2035&height=200&section=header&text=Edson%20Souza&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
 
+<p align="center">
+  <b>QA Analyst & Systems Specialist | Java Ecosystem Enthusiast</b>
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<div height= 30px width= 30px style="background-color: red">  
-<!---<p align="left" color=>- 👋 Hi, I’m @Edsonfrs</p> --->
-<p align="left">- 👀 I’m interested in technology, development, Linux, Sheel Script, SQL, good books and more... </p>
-<p align="left">- 🌱 I’m currently learning Java, Shell script and development.</p>
-<p align="left">- 💪 Working: Tests, tests and more tests. All for Quality Assurance (QA)</p>
-<p align="left">- 📫 How to reach me ...⬇️⬇️⬇️</p>
-</div>
+---
 
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edsonfrs&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+### 🧪 Sobre Mim
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edsonfrs&bg_color=000000&color=4169E1&line=1E90FF&point=4169E1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+- 🔍 **Atuação:** Foco total em **Quality Assurance (QA)**, testes automatizados e análise de sistemas.
+- ☕ **Ecosistema:** Estudando e aprofundando constantemente em **Java**, **Spring Boot** e automação.
+- 🐧 **Linux & Terminal:** Apaixonado pela linha de comando, **Shell Script** e ambientes UNIX.
+- 📖 **Interesses:** Literatura clássica, história, filosofia e arquitetura de sistemas.
 
-<!---
-Edsonfrs/Edsonfrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
-<!---<div>
-  <a href="https://github.com/Edsonfrs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edsonfrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonfrs&layout=compact&langs_count=7&theme=dark"/>
-</div>--->
-  
-  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=edsonfrs&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=4169E1&text_color=4169E1&bg_color=000000" alt="Edson Souza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonfrs&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=000000" />
-</div>
+### 🛠️ Tecnologias & Ferramentas
 
- 
-  
-  
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Eds-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Eds-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Eds-Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
-  <img align="center" alt="Eds-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Eds-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Eds-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Eds-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Eds-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eds-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- 
-  <img align="center" alt="Eds-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eds-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
-  
-</div>
-<br />
+<p align="left">
+  <!-- Linguagens e QA -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+  <!-- Ferramentas & SO -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-  
-  
-<div align="center"> 
-  <a href="https://www.instagram.com/edsonfrs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:edsonfrs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edsonfrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
 
-</div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=Edsonfrs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonfrs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- GRÁFICO DE ATIVIDADE -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edsonfrs&theme=react-dark&hide_border=true" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"In Life, War. In Death, Peace."</i> ⚔️
+</p>
