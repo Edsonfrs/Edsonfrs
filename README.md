@@ -43,6 +43,17 @@
 ---
 
 ### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <!-- Card de Estatísticas Gerais (Servidor Alternativo Estável) -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Edsonfrs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  
+  <!-- Card de Linguagens mais usadas -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonfrs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+####################  ----------------------------------------
 
 <p align="center">
   <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=Edsonfrs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
